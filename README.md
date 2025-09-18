@@ -83,6 +83,3 @@ Place images in `docs/images/` and reference them here:
 ```
 
 ---
-
-## 📝 License
-This project is for educational use. You may replace this with **MIT** or another license if you open‑source the game.
