@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Music/BkgMusic.mp3</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Music/EndBkgMusic.mp3</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/BusSfx.wav</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/ButtonClickSfx.wav</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/CollectSfx.wav</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/DoorSfx.wav</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/HitSplashSfx.wav</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/LockedSfx.wav</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/NextSlideSfx.wav</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/PourSfx.wav</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/StepSfx.wav</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Effects/CircleMask.fx</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Effects/Grayscale.fx</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/MessageFont.spritefont</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/OrderFont.spritefont</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/ScoreFont.spritefont</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/AcradeIndoorBkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/BlankScreenBkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/CafeInteriorBkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/CafeOutdoorBkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/Circle.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/DarkScreenBkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/DuckBkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/EndSceneBkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/Outdoor1Bkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/StationBkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Backgrounds/TownOutdoorBkg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/ApplePie.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/ArcadeTicket.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/BackBirdAnim.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/BackCatAnim.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/BlueHeartImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Cake.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Chips.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/ClearBtn.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Coffee.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/CoffeeSign.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Cookies.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Cream.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/DoneBtn.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Donut.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Down_Idle.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Down_Walk.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/DuckControlsImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/DuckHurtImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/DucklingImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/DuckNormImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/DuckPlayBtn.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/E_Key.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/EasyBtn.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/EmptyHeartImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/FilledHeartImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/FrontBirdAnim.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/FrontCatAnim.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/FrozenBlueBird.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/FrozenOrangeCat.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/FullHeartImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/GameBox.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/HardBtn.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Icecream.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Juice.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Left_Idle.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Left_Walk.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/LeftBirdAnim.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Marshmallows.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/MediumBtn.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Milk.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/ObstaclesImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Pixel.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Pudding.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/RedHeartImg.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Right_Idle.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Right_Walk.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/RightBirdAnim.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Sugar.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Tea.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Up_Idle.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Up_Walk.png</File>
+    <File>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Sprites/Water.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

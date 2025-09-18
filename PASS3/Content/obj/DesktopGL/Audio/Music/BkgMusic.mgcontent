@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Music/BkgMusic.mp3</SourceFile>
+  <SourceTime>2024-06-12T00:18:22.6781369-04:00</SourceTime>
+  <DestFile>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/bin/Debug/Content/Audio/Music/BkgMusic.xnb</DestFile>
+  <DestTime>2024-06-12T01:22:11.9992175-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2023-09-18T10:13:22.8304634-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2023-09-18T10:13:22.8304634-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Julian/OneDrive/Desktop/ICS4/Assignments/PASS3/PASS3/PASS3/bin/Debug/Content/Audio/Music/BkgMusic.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
