@@ -23,10 +23,6 @@ namespace PASS3
         /// </summary>
         public List<Connection> Connections { get; set; }
 
-        // Store map dimensions
-        private static int NUM_ROWS = 25;
-        private static int NUM_COLS = 25;
-
         // Store tile type constants
         private static int GRASS = 1;
         private static int ROAD = 2;
